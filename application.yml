@@ -9,9 +9,5 @@ eureka:
     hostname: localhost
     
     
-microservice:
-  PAYMENT:
-    endpoints:
-      endpoint:
-        uri: "http://PAYMENT/payment/dopayment"
+
 
